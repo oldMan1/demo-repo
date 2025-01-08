@@ -5,3 +5,9 @@ git commit -a -m "your commit message"
 git push origin main
 
 git init
+
+git branch
+
+git checkout -b branchname
+
+git checkout branchname # switch to branch
