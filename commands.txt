@@ -17,3 +17,5 @@ git diff
 git log
 
 git status
+
+git push --set-upstream origin newbranch
