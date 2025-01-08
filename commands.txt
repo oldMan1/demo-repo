@@ -3,3 +3,5 @@ git add filenames
 git commit -a -m "your commit message"
 
 git push origin main
+
+git init
