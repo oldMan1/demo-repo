@@ -11,3 +11,9 @@ git branch
 git checkout -b branchname
 
 git checkout branchname # switch to branch
+
+git diff
+
+git log
+
+git status
